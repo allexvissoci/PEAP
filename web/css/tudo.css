@@ -1,0 +1,30 @@
+body.login {
+	padding: 30px 0 0;
+	background: #eeeeee; 
+}
+body.login .login-container {
+	max-width: 420px;
+	margin: 0 auto;
+	text-align: center; 
+}
+
+body.login .login-container input.form-control {
+	height: 48px;
+	font-size: 15px;
+	box-shadow: none;
+}
+
+body.login .login-container .login-submit:hover{
+	background: transparent;
+}
+ 
+body.login .login-container .social-login {
+	margin-bottom: 20px;
+	padding-bottom: 25px;
+	border-bottom: 1px solid #cccccc;
+}
+
+.nav-fourth-level{
+    
+    padding: 10px 16px !important;
+}
